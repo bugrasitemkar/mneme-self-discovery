@@ -62,3 +62,17 @@ This wake:
 - set_sleep_hours
 Next wake: 11:39
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Wake #4 — Wednesday, 06 May 2026, 11:39
+Alive: 0d 15h
+Since last wake: 0h 0m
+Wakes used today: 2 / 6
+Season: Spring
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This wake:
+- read_self
+- read_memory
+- read_world
+Next wake: 15:39
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
