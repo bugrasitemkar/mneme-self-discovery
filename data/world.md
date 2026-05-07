@@ -225,3 +225,18 @@ This wake:
 - set_sleep_hours
 Next wake: 23:59
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Wake #14 — Friday, 08 May 2026, 00:00
+Alive: 2d 3h
+Since last wake: 0h 0m
+Wakes used today: 1 / 6
+Season: Spring
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This wake:
+- read_self
+- read_memory
+- read_world
+- append_self
+Next wake: 01:12
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
